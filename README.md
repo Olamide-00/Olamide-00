@@ -1,29 +1,53 @@
- 👨‍💻 Hello there! 👋 Welcome to my GitHub profile. I'm Oladele Olamide, a Computer Science student at Federal University Oye Ekiti with a passion for creating amazing software solutions. I specialize in frontend development using HTML, CSS, and JavaScript, and I'm currently exploring the world of mobile app development using React Native.
 
-## 🚀 Skills and Expertise
 
-- Frontend Development: HTML, CSS, JavaScript
-- Mobile App Development: React Native
-- Problem Solving and Algorithmic Thinking
+I'm a Full Stack Software Developer passionate about building scalable mobile and backend applications for startups, businesses, and companies. I enjoy turning ideas into real products, from planning and architecture to deployment and maintenance.
 
-## 🌱 Current Projects
+Over the years, I’ve built and contributed to applications across different industries including fintech, logistics, and business management, with products that have reached over 10K+ downloads combined.
 
-- 📱 Developing exciting mobile apps using React Native.
-- 🎨 Creating beautiful and responsive web interfaces.
+What I Focus On
 
-## 📞 Contact
+* Scalable Application Architecture
+* Mobile & Backend Development
+* API Design & Integration
+* Performance Optimization
+* Clean & Maintainable Code
+* Product Development & Deployment
+* User-Centered Experiences
 
-Feel free to reach out to me. Let's connect and collaborate!
+ Tech Stack
+ HTML
+ CSS
+ Javascript
+ TypeScript
+ React 
+React Native
+Node.js
+Express.js
+MongoDB
+Firebase
+REST APIs
+Git & GitHub
 
-- Phone: +2349152777024
-- LinkedIn: [linkedin.com/in/oladele-olamide](https://linkedin.com/in/oladele-olamide)
+ Products & Solutions
 
-## 🌟 Let's Connect
+* Fintech Applications
+* Logistics & Delivery Platforms
+* Admin Dashboards
+* Business Management Systems
+* Real-Time Features
+* Authentication & Security Systems
 
-I'm always excited to meet fellow developers, tech enthusiasts, and anyone interested in the world of software engineering. Let's learn, grow, and create together! Connect with me on LinkedIn or drop me a message.
+ Currently Exploring
 
-![GitHub Sticker](https://your-sticker-url-here.com)
+* Native iOS Development
+* Swift & SwiftUI
+* Advanced System Design
 
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
+ Open To
 
----
+* Collaborations
+* Freelance Projects
+* Remote Opportunities
+* Startup & Product Partnerships
+
+> Building products that solve real problems and create impact.
